@@ -1,0 +1,34 @@
+.app-header {
+  background-color: rgb(105, 14, 190);
+  width: 100%;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.todo-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.1em;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+.todolist {
+  width: 70%;
+  margin: 0 auto;
+}
+.add-todo {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.kek1 {
+  display: flex;
+  border: 2px solid gray;
+  border-radius: 3px;
+  width: 40%;
+  margin: 0 auto;
+  padding: 1.1em;
+}
